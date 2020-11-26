@@ -12,26 +12,26 @@ React.js, Node.js, Material Ui, Chart.js, Firebase Firestore
 
 ![Alt text](images/login.png)
 
-## Project Log:
+### Project Log:
 
 ![Alt text](images/log.png)
 
-## Chart:
+### Chart:
 
 ![Alt text](images/chart.png)
 
-# Project Management:
+### Project Management:
 
 ![Alt text](images/project.png)
 
-## Category Management:
+### Category Management:
 
 ![Alt text](images/category.png)
 
-## User Management with Edit pop-up:
+### User Management with Edit pop-up:
 
 ![Alt text](images/user.png)
 
-## Log table:
+### Log table:
 
 ![Alt text](images/table.png)
