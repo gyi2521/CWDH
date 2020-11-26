@@ -1,6 +1,6 @@
 # CWDH
 
-Project Tracking App for Interior Design Firm
+Project Tracking Application for Interior Design Firm
 
 # Tech Stack
 
