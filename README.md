@@ -2,15 +2,15 @@
 
 Project Tracking App for Interior Design Firm
 
-# Login:
+## Login:
 
 ![Alt text](images/login.png)
 
-# Project Log:
+## Project Log:
 
 ![Alt text](images/log.png)
 
-# Chart:
+## Chart:
 
 ![Alt text](images/chart.png)
 
@@ -18,14 +18,14 @@ Project Tracking App for Interior Design Firm
 
 ![Alt text](images/project.png)
 
-# Category Management:
+## Category Management:
 
 ![Alt text](images/category.png)
 
-# User Management with Edit pop-up:
+## User Management with Edit pop-up:
 
 ![Alt text](images/user.png)
 
-# Log table:
+## Log table:
 
 ![Alt text](images/table.png)
