@@ -2,6 +2,12 @@
 
 Project Tracking App for Interior Design Firm
 
+# Tech Stack
+
+React.js, Node.js, Material Ui, Chart.js, Firebase Firestore
+
+# Screens
+
 ## Login:
 
 ![Alt text](images/login.png)
